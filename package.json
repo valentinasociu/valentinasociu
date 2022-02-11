@@ -27,7 +27,7 @@
     "core-js": "^2.4.1",
     "dotenv": "^8.1.0",
     "express": "^4.17.1",
-    "express-handlebars": "^3.1.0",
+    "express-handlebars": "^5.3.1",
     "math": "0.0.3",
     "mathjs": "^6.1.0",
     "ng-image-slider": "^2.0.1",
